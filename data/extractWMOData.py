@@ -31,21 +31,9 @@ def openChrome(link):
 
     # wait for page to load
     wait = WebDriverWait(driver, 60)
-    return driver wait
+    return driver, wait
 
 link = "https://app.powerbi.com/view?r=eyJrIjoiZjNhNzIzM2YtMjRkYS00ZjJjLWEzZmMtNmQzMGQzMDdiODU3IiwidCI6ImVhYTZiZTU0LTQ2ODctNDBjNC05ODI3LWMwNDRiZDhlOGQzYyIsImMiOjl9"
-driver_instance = openChrome(link)
-
-# Locate all div elements with class "textbox"
-div_elements = wait.until(EC.presence_of_all_elements_located((By.XPATH, '//div[@class="textbox"]')))
-
-# Iterate over the list of elements and print the text content of each
-for div_element in div_elements:
-    print(div_element.text)
-    print("-----")  # Just a separator for clarity
+driver_instance , wait = openChrome(link)
 
 
-element = WebDriverWait(driver_instance, 60).until(
-    EC.presence_of_element_located((By.CSS_SELECTOR, 'a[title=" Early Warning Services"]'))
-)
-driver.execute_script("arguments[0].click();", element)
