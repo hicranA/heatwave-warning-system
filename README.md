@@ -44,6 +44,29 @@ To reproduce our analysis, follow these steps:
 2. Install the required libraries: `pip install -r requirements.txt`
 3. Run the Jupyter notebooks in the `scripts/` directory.
 
+## Data Engineering Journey
+
+Our data engineering process can be visualized as a journey through five main steps:
+
+### 1. 📦 Data Collection
+- **WMO Data Extraction**: Data was sourced from the embedded Power BI dashboard on the WMO website, a task that presented unique challenges due to its dynamic nature.
+- **PubMed Data Retrieval**: Leveraged the PubMed API to fetch relevant data, transforming the XML response into a structured DataFrame.
+
+### 2. 🧹 Data Cleaning & Validation
+- Harmonized data with the WMO template to ensure consistency.
+- Engaged in collaborative data validation with team members, streamlining the cleaning process.
+
+### 3. 🧩 Data Integration
+- Unified various datasets, including PubMed search results and additional data from Google Search and Google Scholar.
+
+### 4. 🧠 Predictive Modeling & Analysis
+- Adopted advanced tokenization techniques and utilized a pretrained RoBERTa model for predictions.
+- Recognized potential for model enhancement in future iterations.
+
+### 5. 📊 Results & Insights
+- Formulated rules for overall prediction, emphasizing the significance of even a single positive prediction.
+- Generated comprehensive summaries capturing research papers per country and detailed nested information.
+
 ## Contributors
 
 [List of contributors with their roles and/or affiliations]
@@ -51,7 +74,6 @@ To reproduce our analysis, follow these steps:
 ## Acknowledgements
 
 This research project is a contribution to the datathon challenge organized by [Women in Data](https://www.womenindata.org/datathon).
-
 
 
 
