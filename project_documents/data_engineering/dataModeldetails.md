@@ -84,3 +84,15 @@
    - While this phase prioritized identifying potential heatwave systems worth investigating, the approach can be adjusted in the future. For instance, a majority-rule approach can be adopted, where a country is marked as having a system only if the majority of predictions indicate so.
    - Feedback and further model refinements can guide these adjustments.
    - This approach can be more suitable for the bigger databases 
+   Given that you've discovered a discrepancy in the data (Australia having a heatwave warning system but not being reported as such in the WMO data), it's essential to document this finding. This discrepancy can be highlighted under a new section called "Data Discrepancies & Case Studies". Here's how you can structure it:
+
+
+### Data Discrepancies & Case Studies
+
+1. **Australia's Heatwave Warning System**:
+   - **Discovery**: Our machine learning model and WMO data did not indicate the presence of a heatwave warning system for Australia.
+   - **Validation**: Upon further investigation, consulting Australia's official meteorological and disaster preparedness websites revealed that Australia indeed has an operational heatwave warning system in place. [Link to the website for reference]
+   - **Implications**: This discrepancy underscores the importance of continuous validation and the iterative nature of data projects. It also highlights potential gaps in the WMO's reporting or our data extraction methods.
+   - **Future Considerations**: Such discrepancies can be used to refine our model further. The number of publications or the presence of official meteorological websites could potentially be integrated into the model as additional features or validation steps.
+
+
