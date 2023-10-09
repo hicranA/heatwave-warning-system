@@ -17,7 +17,7 @@ The overarching objective of this project is not just to provide a snapshot of t
 1. Which specific countries or regions are documented in the WMO's database as having HWS?
 2. Based on external data sources, which countries or regions have HWS but are not listed in the WMO's database?
 3. What percentage of countries globally have implemented HWS, and how does this distribution vary by region?
-4. Is there a discernible pattern between a country's income level (e.g., low, middle, high income) and the presence or absence of an HWS?
+4. Is there a discernible pattern between a country's GDP per capita level and the presence or absence of an HWS?
 
 ## Technical Details
 
