@@ -137,7 +137,7 @@ As with any research project, there's always room for enhancement and expansion.
 While we've made significant strides, we've also encountered challenges along the way:
 - **Data Extraction Limitations**: Dynamic websites and request limits posed challenges in data extraction.
 - **Data Quality**: Ensuring the accuracy and reliability of data from various sources required rigorous validation.
-- **Data Discrepancies**: We encountered certain discrepancies between our model predictions and real-world data. Detailed examinations of these instances, such as the case with Australia's heatwave warning system, can be found in our [case studies](/Users/hicranarnold/Documents/githubRepos/heatwaves/heatwave-warning-system/project_documents/case_studies).
+- **Data Discrepancies**: We encountered certain discrepancies between our model predictions and real-world data. Detailed examinations of these instances, such as the case with Australia's heatwave warning system, can be found in our [case studies](./project_documents/case_studies).
 
 We're keen on addressing these challenges and continuously refining our approach. Community feedback and collaboration will be pivotal in this journey.
 
