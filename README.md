@@ -106,7 +106,7 @@ We've developed a comprehensive Power BI dashboard to visualize our findings and
 
 ![Power BI Dashboard Screenshot](./project_documents/visualizations/powerBI.png)
 
-For a deeper dive into the interactive dashboard, you can access it [here](https://app.powerbi.com/view?r=eyJrIjoiMWM3YzMzYjUtZWNiMi00YzdhLWFjZDctMmQ3ZDBiMGYxM[…]6IjgzZTY0MjY3LTFmMWItNGZkYy1iYTBlLTVlNzk3MGE2ODdiMSIsImMiOjl9).
+For a deeper dive into the interactive dashboard, you can access it [here](https://app.powerbi.com/view?r=eyJrIjoiMWM3YzMzYjUtZWNiMi00YzdhLWFjZDctMmQ3ZDBiMGYxM2UxIiwidCI6IjgzZTY0MjY3LTFmMWItNGZkYy1iYTBlLTVlNzk3MGE2ODdiMSIsImMiOjl9).
 
 
 ## Roadmap & Future Improvements
