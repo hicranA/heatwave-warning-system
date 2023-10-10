@@ -97,6 +97,9 @@ Our data engineering process can be visualized as a journey through several main
 - Formulated rules for overall prediction, emphasizing the significance of even a single positive prediction.
 - Generated comprehensive summaries capturing research papers per country and detailed nested information.
 
+For a detailed overview of our data engineering process, including the data flow, see [Data Flow Details](./project_documents/data_engineering/dataModeldetails.md).
+
+
 ## Power BI Dashboard
 
 We've developed a comprehensive Power BI dashboard to visualize our findings and provide stakeholders with an interactive platform to explore the data. 
