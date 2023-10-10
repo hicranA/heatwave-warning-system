@@ -61,7 +61,6 @@ The overarching objective of this project is not just to provide a snapshot of t
 ### Setup and Installation
 
 To reproduce our analysis, follow these steps:
-
 1. Clone this repository to your local machine.
 2. Install the required libraries: `pip install -r requirements.txt`
 3. Run the Jupyter notebooks in the `scripts/` directory.
@@ -97,6 +96,15 @@ Our data engineering process can be visualized as a journey through several main
 ### 5. 📊 Results & Insights
 - Formulated rules for overall prediction, emphasizing the significance of even a single positive prediction.
 - Generated comprehensive summaries capturing research papers per country and detailed nested information.
+
+## Power BI Dashboard
+
+We've developed a comprehensive Power BI dashboard to visualize our findings and provide stakeholders with an interactive platform to explore the data. 
+
+![Power BI Dashboard Screenshot](./project_documents/visualizations/powerBI.png)
+
+For a deeper dive into the interactive dashboard, you can access it [here](https://app.powerbi.com/view?r=eyJrIjoiMWM3YzMzYjUtZWNiMi00YzdhLWFjZDctMmQ3ZDBiMGYxM[…]6IjgzZTY0MjY3LTFmMWItNGZkYy1iYTBlLTVlNzk3MGE2ODdiMSIsImMiOjl9).
+
 
 ## Roadmap & Future Improvements
 
