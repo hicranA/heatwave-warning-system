@@ -143,6 +143,10 @@ Five passionate ladies from around the world united with a shared mission: to be
 
 Together, we've combined our diverse skills and backgrounds to tackle the challenge of understanding global heatwave preparedness. Our collaboration is a testament to the power of collective effort in addressing pressing global issues.
 
+## License
+
+This project is licensed under the MIT License. For more details, see the [LICENSE](https://github.com/hicranA/heatwave-warning-system/blob/main/LICENSE) file in this repository. If you use any part of this code or data, please credit the authors.
+
 ## Acknowledgements
 
 This research project is a contribution to the 2023 datathon challenge hosted by [Women in Data](https://www.womenindata.org/datathon).
