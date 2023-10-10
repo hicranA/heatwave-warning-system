@@ -86,6 +86,8 @@
    - This approach can be more suitable for the bigger databases 
    Given that you've discovered a discrepancy in the data (Australia having a heatwave warning system but not being reported as such in the WMO data), it's essential to document this finding. This discrepancy can be highlighted under a new section called "Data Discrepancies & Case Studies". Here's how you can structure it:
 
+![Data Flow](Data_Flow.jpg)
+
 
 ### Data Discrepancies & Case Studies
 
